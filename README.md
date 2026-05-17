@@ -11,7 +11,7 @@
 
 ## Description
 
-Prevent username stealing on your server!<br>
+Prevent usernames stealing on your server!<br>
 Use it to secure your Offline mode server or to increase your Online mode server's protection!
 
 AuthMeReloaded disallows players who aren't authenticated to do actions like placing blocks, moving,<br>
